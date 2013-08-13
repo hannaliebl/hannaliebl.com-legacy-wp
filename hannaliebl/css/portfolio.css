@@ -1,0 +1,12 @@
+.portfolio_categories div {
+	margin: 10px;
+}
+
+.portfolio_categories div label {
+	width: 100px;
+	float: left;
+}
+
+.portfolio_categories div input {
+	width: 300px;
+}
